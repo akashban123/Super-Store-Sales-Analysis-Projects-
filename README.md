@@ -1,2 +1,4 @@
 # My-first-project
 This is my first project on GitHub
+
+I worked on a Super Store Sales Analysis Project (1st May 2025 – 15th May 2025) where I developed an interactive Power BI dashboard featuring KPIs, filters, and visuals to explore sales and operations data across multiple levels. The project focused on analyzing sales trends using charts and metrics to evaluate the effectiveness of existing strategies and identify underperforming segments. To strengthen decision-making, I applied time series analysis for 15-day sales forecasting, which helped optimize inventory planning and reduce stockouts. The actionable insights derived from the analysis contributed to improving growth, streamlining operations, and enhancing customer satisfaction through data-driven actions. Tools and technologies used in this project included Power BI, SQL, and Excel, which supported data cleaning, querying, visualization, and forecasting tasks effectively.
